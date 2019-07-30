@@ -20,3 +20,6 @@ Existen varias clases de aprendizaje, supervisado, no supervisado y por refuerzo
 ![](/imgs/ml1.png)
 
 
+Dentro de cada clase de aprendizaje surgen varios paradigmas, dependiendo del tipo de problema a resolver.
+
+![](/imgs/ml2.png)
