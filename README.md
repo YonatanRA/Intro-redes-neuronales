@@ -22,4 +22,11 @@ Existen varias clases de aprendizaje, supervisado, no supervisado y por refuerzo
 
 Dentro de cada clase de aprendizaje surgen varios paradigmas, dependiendo del tipo de problema a resolver.
 
+
 ![](/imgs/ml2.png)
+
+También está en el próposito de éste repo introducir las redes neuronales, desde las completamente conectadas a las convolucionales, aplicando cada una a varios casos.
+
+![](/imgs/ml3.jpg)
+
+![](/imgs/ml4.jpeg)
