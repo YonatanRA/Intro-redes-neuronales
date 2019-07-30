@@ -30,3 +30,7 @@ También está en el próposito de éste repo introducir las redes neuronales, d
 ![](/imgs/ml3.jpg)
 
 ![](/imgs/ml4.jpeg)
+
+
+Se irá actualizando con el tiempo. 
+¡Disfrutad aprendiendo!
