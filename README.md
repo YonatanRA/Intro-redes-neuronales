@@ -1,5 +1,5 @@
 
-# Introducción al Machine Learning
+# Introducción a las Redes Neuronales y Machine Learning
 
 
 ![](/imgs/ml.jpg)
@@ -8,7 +8,7 @@
 
 ## Resumen
 
-Este repo es una introducción al machine learning, en castellano, para todas las clases de apredizaje que existen. 
+Este repo es una introducción a las redes neuronales y al machine learning, en castellano, para todas las clases de apredizaje que existen. 
 
 
 
